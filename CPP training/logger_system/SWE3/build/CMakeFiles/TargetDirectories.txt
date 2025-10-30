@@ -1,0 +1,4 @@
+/home/akhil/clone2-Ass2/logger_system_team_2/SWE3/build/CMakeFiles/logging_framework.dir
+/home/akhil/clone2-Ass2/logger_system_team_2/SWE3/build/CMakeFiles/client_framework.dir
+/home/akhil/clone2-Ass2/logger_system_team_2/SWE3/build/CMakeFiles/edit_cache.dir
+/home/akhil/clone2-Ass2/logger_system_team_2/SWE3/build/CMakeFiles/rebuild_cache.dir

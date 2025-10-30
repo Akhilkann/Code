@@ -1,0 +1,43 @@
+logger:
+
+  mode: 'standalone' #mode can be standalone/ client
+  console_level: 'wrn' #level can be off/crt/err/wrn/inf/dbg/trc
+
+  file_level: 'off' #level can be off/crt/err/wrn/inf/dbg/trc
+  file_size: 4
+  file_path: "../logs/mylogger.log"
+
+  network_level: 'inf' #level can be off/crt/err/wrn/inf/dbg/trc
+  network_ip: "127.0.0.1"
+  network_port: 5000
+
+
+# logger:
+#   log-client:
+#     #can be neglected
+#     enable: 'true'
+#     #mode can be standalone/ client
+#     mode: standalone
+#   log-service:
+#     console:
+#       #level can be off/crt/err/wrn/inf/dbg/trc
+#       level: 'off'
+#     file:
+#       level: 'crt'
+#       size: 1000
+#       path: "/var/log/mylogger.log"
+#     network:
+#       level: 'dbg'
+#       ip: 192.168.0.1
+#       port: '5000'
+#   remote-server:
+#     console:
+#       level: 'off'
+#     file:
+#       level: 'crt'
+#       size: '1000'
+#       path: "/var/log/mylogger.log"
+#     network:
+#       level: 'dbg'
+#       ip: 192.168.0.1
+#       port: '5000'

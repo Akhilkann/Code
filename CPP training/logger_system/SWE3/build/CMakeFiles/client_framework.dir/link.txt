@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/client_framework.dir/src/LoggingService.cpp.o CMakeFiles/client_framework.dir/src/LogConfig.cpp.o CMakeFiles/client_framework.dir/src/LoggingLibrary.cpp.o CMakeFiles/client_framework.dir/src/LogLevel.cpp.o CMakeFiles/client_framework.dir/src/RemoteLoggingNetwork.cpp.o -o client_framework  -lyaml-cpp 

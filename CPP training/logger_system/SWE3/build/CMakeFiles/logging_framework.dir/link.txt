@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/logging_framework.dir/src/main.cpp.o CMakeFiles/logging_framework.dir/src/LogConfig.cpp.o CMakeFiles/logging_framework.dir/src/LoggingLibrary.cpp.o CMakeFiles/logging_framework.dir/src/LogLevel.cpp.o CMakeFiles/logging_framework.dir/src/RemoteLoggingNetwork.cpp.o -o logging_framework  -lyaml-cpp 
